@@ -6,5 +6,3 @@ package-lock.json
 # Archivo de configuración del entorno
 .env
 
-# Archivo de configuración de las credenciales de la base de datos
-config/db-config.json
